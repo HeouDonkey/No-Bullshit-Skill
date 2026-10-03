@@ -55,4 +55,4 @@ skill 只有 description 常驻上下文,正文不保证每个会话加载。上
 
 ## 许可
 
-待定。
+[MIT](LICENSE)
